@@ -3,7 +3,7 @@
 FL Studio is a beat making and production application for Windows. It’s widely searched as **FL Studio free download**, **FL Studio 2026**, and **what is FL Studio** – a complete DAW for sequencing beats, recording audio, arranging tracks, and mixing to a final master. If you’re asking **is FL Studio free**, the trial version includes all features; the **FL Studio price** is a one-time purchase with free lifetime updates.
 
 <div align="center">
-img
+<img width="350" height="350" alt="photo_2026-08-09_00-46-47" src="https://github.com/user-attachments/assets/b1915817-3655-4f1f-a7e5-4d8a66d41496" />
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Platform-Windows-0078D6" alt="Platform"/>
@@ -32,7 +32,7 @@ img
 - **New in v26.1.3** – CPU optimizations, enhanced browser, fresh presets  
 
 <div align="center">
-img
+<img width="2814" height="1647" alt="f7e9fad2af7f" src="https://github.com/user-attachments/assets/85a0700e-31bf-43aa-9700-cc42d85adc5f" />
 </div>
 
 <a name="install-guide"></a>
