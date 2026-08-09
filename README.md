@@ -65,3 +65,4 @@ All Plugins Edition, free download, FL Studio 2026, what is FL Studio, FL Studio
 ## ⚖️ LICENSE
 
 *This project is licensed under the **MIT License** – you are free to use, copy, modify, and distribute it. The full MIT License text is provided in the LICENSE file included with the project.*
+
