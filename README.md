@@ -1,4 +1,4 @@
-# FL Studio – Beat Making and Production Software for Windows
+# FL Studio 26.1.3 – All Plugins Edition – Beat Making and Production Software for Windows
 
 FL Studio is a complete digital audio workstation for Windows, designed for beat making, music production, recording, mixing, and mastering. Whether you're exploring the free trial or looking for the full All Plugins Edition, this software gives you everything you need to turn ideas into professional tracks.
 
